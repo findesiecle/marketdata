@@ -1,5 +1,5 @@
-A data representation for finex data
-====================================
+A module for working with finex (market) data
+=============================================
 
 Version 0.1.3 because that sounds good.
 
